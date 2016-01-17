@@ -1,6 +1,6 @@
-/**
- * Created by Kate on 17.01.2016.
- */
+///**
+// * Created by Kate on 17.01.2016.
+// */
 
 
 var li = document.createElement('button');
